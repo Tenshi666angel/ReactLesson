@@ -1,0 +1,12 @@
+.container {
+    display: flex;
+    padding: 15px;
+    border:  1px solid teal;
+    margin-top: 15px;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.postButton {
+    margin-top: 20px;
+}

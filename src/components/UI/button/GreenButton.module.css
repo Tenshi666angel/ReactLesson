@@ -1,0 +1,12 @@
+.button {
+    border: 1px solid teal;
+    padding: 5px 15px;
+    background: transparent;
+    color: teal;
+    cursor: pointer;
+}
+
+.button:hover {
+    border-color: orangered;
+    color: orangered;
+}
